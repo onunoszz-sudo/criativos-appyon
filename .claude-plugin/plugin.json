@@ -1,7 +1,15 @@
 {
   "name": "appyon",
-  "version": "0.1.0",
-  "description": "Metodo de criativos da Appyon (Auraly): manual de producao, prompts, pre-hook do carro e perfil da conta. Usa as skills da criativos-base.",
-  "author": {"name": "Pedro Nunes"},
-  "keywords": ["appyon", "auraly", "pre-hook", "avatar", "flow"]
+  "version": "0.2.0",
+  "description": "Metodo de criativos da Appyon (Auraly): manual de producao, prompts, pre-hook do carro e perfil da conta e aprendizados da producao. Usa as skills da criativos-base.",
+  "author": {
+    "name": "Pedro Nunes"
+  },
+  "keywords": [
+    "appyon",
+    "auraly",
+    "pre-hook",
+    "avatar",
+    "flow"
+  ]
 }

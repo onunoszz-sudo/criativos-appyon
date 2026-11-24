@@ -1,0 +1,92 @@
+Gere 14 videos SEPARADOS (um take por bloco), na ordem, usando a imagem anexada como FRAME INICIAL de cada um. Configuracao de cada video: Omni 1.1 Flash, 9:16, 720p, 1 resposta, e a DURACAO de cada video e a do proprio bloco (o numero em 'X-second clip': 6, 8 ou 10 segundos). O BLOCO 1 tem o prompt completo. Para os blocos 2 a 14, use EXATAMENTE o mesmo prompt do bloco 1 trocando so o que o bloco indica (numero do clip, fala, tempo de fala e continuidade), sem reescrever, resumir ou traduzir nada, e nao gere nada alem desses 14 videos.
+
+===== BLOCO 1 =====
+A imagem anexada deve ser o frame inicial. The attached image must be the first frame of the video. Keep his clothes (black button-up dress shirt, collar open, sleeves rolled up to the forearms, black trousers, silver watch) and his tattoos EXACTLY as in the first frame; never add or enlarge tattoos.
+Creative direction: Meu avatar dirige enquanto fala com o carro sempre em movimento, gesticula com a mao livre baseado nas falas, olha levemente para a frente como se checasse o transito, e o audio sempre sai com o ruido constante da estrada e do motor e um leve eco de dentro do carro do primeiro ao ultimo segundo, no mesmo volume em todos os takes, nunca com fundo silencioso ou de estudio.
+
+Create a single continuous 10-second video clip using the supplied reference image as the exact visual reference. Same person, same face, the EXACT SAME VOICE, hair, makeup, clothing, accessories, environment, background, lighting, color grading, camera angle, camera distance, framing and lens as the reference image. This is clip 1 of 14 of ONE continuous recording, all clips spoken by the same person with one single, consistent voice.
+
+SPOKEN DIALOGUE (in English, spoken aloud on camera EXACTLY ONCE, from the first word to the last, with perfect lip sync, delivered seductive and slow, addressing the viewer directly; no subtitles or text on screen):
+"You want proof that the universe is listening to you? I'll prove it to you, but keep your mouth shut after watching this."
+
+ACCENT LOCK: natural GENERAL AMERICAN accent (United States), exactly the same in every clip; never British or any other accent.
+
+VOICE CHARACTERISTICS (LOCKED - identical in every clip of this recording):
+[Voice and Audio Instructions]
+
+Voice Profile: Man in his 30s, native English speaker born and raised in the United States, neutral General American accent (Midwest); NO Brazilian, Portuguese or Spanish accent. Warm, smooth and calm mid-low voice (around 107 Hz), no gravel, no rasp.
+
+Vocal Characteristics: Low-to-medium register, smooth and resonant, slightly husky but clean; chest resonance, zero nasality, steady.
+
+Tone: Calm, warm and confident, intimate, like a friend telling a secret. No theatrics.
+
+Delivery style: Seductive and slow, clear sentences, speaks to one listener eye-to-eye.
+
+Naturalness: The voice must sound as natural and human as possible - real breathing, natural micro-pauses, subtle imperfections, organic intonation shifts. It must NEVER sound robotic, synthetic, flat, or AI-generated. No text-to-speech cadence of any kind.
+
+Technical Settings: STRICTLY a solo monologue. The speaker is completely ALONE. Absolutely NO background voices, ZERO interviewer noises, and STRICTLY NO agreement sounds (like 'mhm', 'yeah', 'aha', 'uh-huh'). NO background music, NO sound effects, NO automatic subtitles. The voice is recorded live INSIDE A MOVING CAR: constant, natural car road noise and soft engine hum are ALWAYS audible under the voice, from the first frame to the last, at the same level in every clip. STRICTLY DO NOT imitate or impersonate any famous public figure or celebrity - the voice must be entirely original.
+
+VOICE CONSISTENCY:
+VOICE LOCK: this is the SAME PERSON with the SAME VOICE as in every other clip of this recording (this is clip 1 of 14; the voice must be indistinguishable from the other 13). Reproduce exactly the voice identity described in VOICE CHARACTERISTICS - same timbre, pitch range, accent, resonance, articulation, breathiness and energy level. Do not generate a different voice, do not substitute a similar one, do not drift younger or older, do not change accent or gender, do not switch to a generic narrator or text-to-speech voice, and do not add a second speaker. Keep this exact same voice from the first word to the last word of the clip. If anything else in this prompt could be read as calling for a different voice, VOICE CHARACTERISTICS wins.
+
+VOICE PACING:
+BODY pacing - target approximately 215-225 WPM (about 3.6-3.8 words per second, 5.5-6 syllables per second). Very few pauses. Maintain a continuous, energetic flow. Speak quickly while keeping every word clearly intelligible. Do not sound rushed, panicked, or unnatural. Use subtle emphasis on important words.
+Preserve natural sentence rhythm and natural rhythmic variation - never a robotic, mechanically constant speed. Do not make every word equally stressed, do not use excessive pauses, do not artificially stretch vowels, do not rush consonants to hit the target speed. Prioritize clear pronunciation and natural cadence, like a confident creator speaking directly to the viewer, not an AI reading a script. Keep the exact voice identity, accent, pitch, tone and vocal character described in VOICE CHARACTERISTICS; if anything above implies a different speed, keep the character but follow THIS pacing.
+Estimated speaking time: about 7.4 seconds of the 10-second clip. Say the line EXACTLY ONCE, from the first word to the last, and then stop talking: never repeat a word, a phrase or a sentence, not even to fill the remaining time. After the last word the character stays silent, holding the gaze on the camera and breathing naturally, until the clip ends. Never stretch, rush, remove or add words to fill the time.
+
+VISUAL:
+Animate the supplied reference image naturally and subtly. Preserve exactly the same person and appearance. Style: cinematic, photoreal, natural physics; atmosphere: tense anticipation building toward a reveal. Natural physics, realistic micro-motion, no morphing, no hand glitches, no flickering, consistent identity across all frames.
+The character delivers the line directly to the viewer with natural blinking, breathing and facial expressions. Body language for this clip: Meu avatar dirige enquanto fala com o carro sempre em movimento, gesticula com a mao livre baseado nas falas, olha levemente para a frente como se checasse o transito, e o audio sempre sai com o ruido constante da estrada e do motor e um leve eco de dentro do carro do primeiro ao ultimo segundo, no mesmo volume em todos os takes, nunca com fundo silencioso ou de estudio.
+
+CAMERA:
+Keep the camera completely static throughout the entire shot. No zoom-in, no zoom-out, no camera push-in, and no change in framing or camera distance. Maintain the exact original composition and perspective. No pan, no tilt, no orbit, no dolly, no handheld shake, no reframing, no lens change, no cut to another angle. The video must feel like a single uninterrupted recording from a fixed camera. This overrides any camera motion implied by the visual style.
+
+AUDIO:
+The spoken dialogue is the ONLY voice - the same voice as in every other clip of this recording - spoken one single time; no repeated lines, no echo, no second voice, no change of voice mid-clip. ASMR-style natural ambience only - every real environmental sound captured with intimate, close-mic clarity (soft breathing, fabric rustle, subtle room tone). STRICTLY NO music, NO soundtrack, NO added sound effects, NO sound design of any kind. No additional voices, no added dialogue, no voice effects, no pitch shifting.
+
+EDITING:
+One uninterrupted continuous shot. No cuts, jump cuts, transitions, fades, crossfades, flash effects, speed ramps, slow motion, time-lapse or visual effects.
+
+CONTINUITY:
+This clip is the start of one continuous recording. Preserve visual continuity so the ending pose, expression, hand position and framing can continue directly into the next clip.
+
+Do not add, remove, repeat, rewrite, paraphrase, or alter any spoken words.
+
+===== BLOCO 2 =====
+SAME PROMPT AS BLOCO 1, except: clip 2 of 14; 8-second clip; SPOKEN DIALOGUE: "Not every woman is going to see this on November twenty-fifth, twenty-sixth, or twenty-seventh."; Estimated speaking time: about 4.5 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 3 =====
+SAME PROMPT AS BLOCO 1, except: clip 3 of 14; 10-second clip; SPOKEN DIALOGUE: "But there's a catch. If this reached you today, it wasn't by accident. So don't scroll, and listen until the end."; Estimated speaking time: about 6.8 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 4 =====
+SAME PROMPT AS BLOCO 1, except: clip 4 of 14; 10-second clip; SPOKEN DIALOGUE: "A powerful wave of prosperity, love, and money is heading your way. The prosperity portal has opened. The worst is finally over."; Estimated speaking time: about 7.1 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 5 =====
+SAME PROMPT AS BLOCO 1, except: clip 5 of 14; 8-second clip; SPOKEN DIALOGUE: "But the universe needs to know you're ready to receive it. So here's what you're gonna do tonight."; Estimated speaking time: about 5.8 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 6 =====
+SAME PROMPT AS BLOCO 1, except: clip 6 of 14; 10-second clip; SPOKEN DIALOGUE: "Tonight, when you go to bed, close your right hand, put it on your heart, and say this out loud three times."; Estimated speaking time: about 7.1 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 7 =====
+SAME PROMPT AS BLOCO 1, except: clip 7 of 14; 8-second clip; SPOKEN DIALOGUE: "Thank you, universe. I'm ready to receive the money, the love, and the miracles that are already mine."; Estimated speaking time: about 5.8 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 8 =====
+SAME PROMPT AS BLOCO 1, except: clip 8 of 14; 8-second clip; SPOKEN DIALOGUE: "Then don't think about it. Just lie down and go to sleep, and let the universe do the rest."; Estimated speaking time: about 6.1 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 9 =====
+SAME PROMPT AS BLOCO 1, except: clip 9 of 14; 8-second clip; SPOKEN DIALOGUE: "In the next seven days, the energy of scarcity that was following you is going to be destroyed forever."; Estimated speaking time: about 6.1 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 10 =====
+SAME PROMPT AS BLOCO 1, except: clip 10 of 14; 10-second clip; SPOKEN DIALOGUE: "And that's your proof. Watch what starts showing up. Money you didn't expect. Incredibly good news. Someone wonderful walking into your life."; Estimated speaking time: about 7.1 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 11 =====
+SAME PROMPT AS BLOCO 1, except: clip 11 of 14; 10-second clip; SPOKEN DIALOGUE: "Now save this video, so you don't forget tonight's words. And type 222 in the comments so I can see you're in."; Estimated speaking time: about 7.1 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 12 =====
+SAME PROMPT AS BLOCO 1, except: clip 12 of 14; 8-second clip; SPOKEN DIALOGUE: "Then come back here and tell me what changed in your life. Because I know it will."; Estimated speaking time: about 5.5 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 13 =====
+SAME PROMPT AS BLOCO 1, except: clip 13 of 14; 8-second clip; SPOKEN DIALOGUE: "But pay close attention, this energy is highly sensitive, and other people's envy can completely break it."; Estimated speaking time: about 5.5 seconds of the 8-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.
+
+===== BLOCO 14 =====
+SAME PROMPT AS BLOCO 1, except: clip 14 of 14; 10-second clip; SPOKEN DIALOGUE: "So tap my profile picture and watch my stories before they disappear, because the second part of this sign is waiting for you there."; Estimated speaking time: about 7.7 seconds of the 10-second clip; CONTINUITY: direct continuation of the previous clip (same posture, hand placement and framing). Say every word only once.

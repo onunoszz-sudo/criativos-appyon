@@ -7,6 +7,7 @@ base de criativos ([criativos-base](https://github.com/onunoszz-sudo/criativos-b
 |---|---|
 | `appyon-producao` | manual de produção, prompts, processo de contas, referências e o perfil da conta `auraly-manifestacao` |
 | `appyon-prehook` | monta o pre-hook do carro por script (`prehook.py`), com os sons de cada ação e os níveis da referência |
+| `appyon-aprendizados` | regras aprendidas na produção (datas, legenda, pote hermético, tatuagens, elemento americano, hook por cortes), moldes validados (capacho → carro, bueiro, churrasqueira + "proof the universe"), copys, fluxo do Agente do Flow e conferência de takes |
 | da base: `pesquisa-de-referencias`, `roteiro-e-copy`, `geracao-de-video-ia`, `edicao-de-video`, `qa-de-criativo`, `entrega-de-criativo` | o ciclo do vídeo, Flow em lote, QA e entrega |
 
 ## Instalar (uma vez)
